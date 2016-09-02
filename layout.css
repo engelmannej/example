@@ -1,0 +1,15 @@
+*{
+	box-sizing: border-box;
+}
+body{
+	background-color: gray;
+}
+#main{
+	background-color:white;
+	max-width: 400px;
+	margin:100px auto;
+	padding:10px 40px;
+}
+span{
+	background-color:yellow;
+}
